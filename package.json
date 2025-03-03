@@ -1,0 +1,19 @@
+{
+  "name": "aryeo-sdk-ts-fetch",
+  "version": "1.0.0",
+  "description": "Simple Aryeo API SDK",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Typescript"
+  ],
+  "author": "Jarrod Parkes <jarrodp@zillowgroup.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
